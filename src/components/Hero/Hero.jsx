@@ -28,11 +28,7 @@ const Hero = () => {
             <span>Forget all difficulties in finding a residence for you</span>
           </div>
 
-          <div className="flexCenter search-bar">
-            <HiLocationMarker color="var(--blue)" size={25} />
-            <input type="text" />
-            <button className="button">Search</button>
-          </div>
+        
 
           <div className="flexCenter stats">
             <div className="flexColCenter stat">
@@ -69,7 +65,7 @@ const Hero = () => {
             }}
             className="image-container"
           >
-            <img src="./hero-image.png" alt="houses" />
+            <img src="./headshot.png" alt="houses" />
           </motion.div>
         </div>
       </div>
