@@ -84,12 +84,12 @@
     line-height: 3rem;
   }
   .image-containertwo{
-    width: 90%;
-    height: 30rem;
+    width: 100%;
+    height: 31rem;
   }
   .image-container{
-    width: 90%;
-    height: 30rem;
+    width: 100%;
+    height: 31rem;
   }
   .stats{
     justify-content: center;
